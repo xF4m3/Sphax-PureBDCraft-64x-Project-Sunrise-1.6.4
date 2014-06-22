@@ -1,0 +1,15 @@
+Changelog
+
+v.0.6pre
+added Alkahest & Tome of Alkahest
+v.0.5pre
+added the Sojourner's Staff
+v.0.4pre
+added the blocks (xrblocks.png)
+v.0.3pre
+64x Version QC & Clean up
+v.0.2pre
+added the Gunshots
+added Condensed Potions & Potions
+v.0.1pre
+Initial Release
